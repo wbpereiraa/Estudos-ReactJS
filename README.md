@@ -1,25 +1,25 @@
-Alguns dos assuntos que estão neste repositório de estudos de ReactJS:
+# Alguns dos assuntos que estão neste repositório de estudos de ReactJS:
 
-JSX;
+*JSX*;
 
-Componentes;
+*Componentes*;
 
-Estruturas de controle e repetição nos componentes;
+*Estruturas de controle e repetição nos componentes*;
 
-Principais hooks do React, como useState e useEffect;
+*Principais hooks do React, como useState e useEffect*;
 
-Utilização do Vite para gerenciar projetos React;
+*Utilização do Vite para gerenciar projetos React*;
 
-Criação de projetos;
+*Criação de projetos*;
 
-Melhores práticas;
+*Melhores práticas*;
 
-Instalação e criação de projeto com React com Vite;
+*Instalação e criação de projeto com React com Vite*;
 
-Estrutura de pastas do React;
+*Estrutura de pastas do React*;
 
-Principais hooks do React;
+*Principais hooks do React*;
 
-Fundamentos do React JS;
+*Fundamentos do React JS*;
 
-JSX e controle de fluxo nos componentes do React JS
+*JSX e controle de fluxo nos componentes do React JS*.
